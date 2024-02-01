@@ -9,7 +9,7 @@
 
 - 👯 I’m Building [Shady Labs](https://github.com/shady-labs)
 
-- 👨‍💻 Checkout My Portfolio here! [https://hemang-pant.vercel.app/](https://hemang-pant.vercel.app/)
+- 👨‍💻 Checkout My Portfolio [here!](https://hemang-pant.vercel.app/)
 
 - 📫 How to reach me *hemangpant2002@gmail.com*
 
