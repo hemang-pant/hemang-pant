@@ -1,13 +1,13 @@
 <h1 align="center">Hello I am Hemang Pant.</h1>
-<h3 align="center">I do Full-Stack Web & App Development.</h3>
+<h3 align="center">I do Web3 development and integrations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemang-pant&label=Profile%20views&color=0e75b6&style=flat" alt="hemang-pant" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hemangpant" target="blank"><img src="https://img.shields.io/twitter/follow/hemangpant?logo=twitter&style=for-the-badge" alt="hemangpant" /></a> </p>
 
-- 🌱 I’m currently learning *Rust and Go.*
+- 🥑 Integrations and Devrel at [Arcana Network](https://arcana.network/)
 
-- 👯 I’m Building [Shady Labs](https://github.com/shady-labs)
+- 🚀 I’m Building [Shady Labs](https://github.com/shady-labs)
 
 - 👨‍💻 Checkout My Portfolio [here!](https://hemang-pant.vercel.app/)
 
